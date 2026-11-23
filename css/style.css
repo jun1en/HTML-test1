@@ -244,7 +244,9 @@ textarea {
     page-break-after: avoid;
   }
   h1{
-font-size: 200px;font-family: "Times New Roman";color: hotpink;
+    font-size: 200px;
+    font-family: "Times New Roman";
+    color: hotpink;
   }
 
   body{
