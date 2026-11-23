@@ -249,6 +249,8 @@ font-size: 200px;
     color: hotpink;
   }
 
-background-color: antiquewhite;
+  body{
+    background-color: navajowhite;
+  }
 }
 
